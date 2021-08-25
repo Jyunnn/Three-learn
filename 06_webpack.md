@@ -44,4 +44,4 @@ loader.load( WorldModel , function (gltf ) {
 ```
 
 完成載入模型
-![WorldModel](https://i.imgur.com/O1DgI4y.gifv)
+![WorldModel](https://imgur.com/O1DgI4y)
